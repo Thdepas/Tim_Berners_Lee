@@ -29,9 +29,7 @@ body {
     text-decoration: none;
   }
   
-  table,
-  tr,
-  td {
+  table,tr,td {
     border-spacing: 15px;
   }
   
